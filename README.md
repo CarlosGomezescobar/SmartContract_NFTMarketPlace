@@ -1,5 +1,7 @@
 # SmartContract_NFTMarketPlace
-Smart Contract para un Marketplace 
+Smart Contract para un Marketplace NFT
+
+
 Holaaa! 
 
 Puedes Probar este contrato  y darle el mejor uso que que quieras
